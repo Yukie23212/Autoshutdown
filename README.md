@@ -1,8 +1,8 @@
 # Autoshutdown
 Just a simple autoshutdown when idle
 
-#Requirement
+# Requirement
 pyautogui
 
-#install 
+# install 
 pip install pyautogui
