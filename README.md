@@ -8,6 +8,7 @@ A simple auto-shutdown script that triggers when idle.
 # install 
 Ensure Python is installed and in your system's PATH. Then, install the pyautogui module by running:
 
+
 ```bash
 pip install pyautogui
 ```
